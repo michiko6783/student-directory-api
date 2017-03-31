@@ -31,7 +31,7 @@ Your app must:
 ### Challenge
 
 * Seed your database with students from our class
-* A sample front-end application that utilizes the REST API that you created 
+* Create a front-end application that utilizes the REST API that you created 
 
 Tips: 
 
