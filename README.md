@@ -32,7 +32,7 @@ Your app must:
 
 Tips: 
 
-- You'll need to run two servers on separate ports. Use `nodemon` for your Express app and something like `serve` which we used during the Ajax lesson to serve your front-end application. They both can't be using the same port. 
+- You'll need to run two servers on separate ports. Use `nodemon` for your Express app and something like [serve](https://www.npmjs.com/package/serve) which we used during the Ajax lesson to serve your front-end application. They both can't utilize the same port number. 
 - Use jQuery's `$.ajax` method to access your API 
 
 ---
