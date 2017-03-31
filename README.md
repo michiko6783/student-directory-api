@@ -12,7 +12,7 @@ With this API, any external application will be able to:
 - Update a student's information 
 - Delete a student from the database 
 
-Although it's not required, we highly recommend using something like [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) to develop and test your REST API. 
+Although it's not required, we highly recommend using a tool like [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) to develop and test your REST API. 
 
 ---
 
@@ -37,6 +37,35 @@ Tips:
 
 - You'll need to run two servers on separate ports. Use `nodemon` for your Express app and something like [serve](https://www.npmjs.com/package/serve) to run your front-end application. They both can't utilize the same port number. 
 - Use jQuery's `$.ajax` method to access your API 
+
+Seed Data:
+
+```
+# WDI 10
+Jacob Bodkin
+Barbara Boutette
+Jorge Cano
+Andrew Chan
+Sam Collette
+Daniel Doherty
+Jon Franchi
+Sarah Goldgar
+Remington Griffin
+Matthew Heck
+Komal Jadvani
+Chris Jauregui
+Juliana Michelsen
+Erik Morales
+Charles Orlando
+Melissa Pringle
+Salman Rana
+Rene Sanchez
+Robert Saunders
+Tanya Selvog
+Ronak Singh
+Matthew Tan
+Peter Weyand
+```
 
 ---
 
