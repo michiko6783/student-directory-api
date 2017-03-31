@@ -34,3 +34,11 @@ Tips:
 
 - You'll need to run two servers on separate ports. Use `nodemon` for your Express app and something like `serve` which we used during the Ajax lesson to serve your front-end application. They both can't be using the same port. 
 - Use jQuery's `$.ajax` method to access your API 
+
+---
+
+### Resources
+
+- [Express walkthrough](https://github.com/wdi-atx-10/class/blob/master/w04/d02/morning/README.md) 
+- [Mongoose walkthrough](https://github.com/wdi-atx-10/class/blob/master/w04/d03/morning/readme.md)
+- [Notes from the StarCraft lab](https://github.com/wdi-atx-10/class/blob/master/w04/d03/afternoon/instructor/README.md)
